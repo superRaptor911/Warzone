@@ -1,0 +1,408 @@
+
+<html>
+<head>
+<title>DM&P XMS Library Reference</title>
+</head>
+<body>
+<font face="Times New Roman">
+<center>
+  <table width="100%">
+    <tr>
+      <td rowspan="2" valign="top" align="left"><a href="http://www.dmp.com.tw"><img src="dmp.gif" border="0"></a></td>
+      <td><h1>DM&amp;P DOS XMS Library Reference</h1></td>
+    </tr>
+  </table>
+  <table width="100%" bgcolor="#99ccff">
+    <tr>
+      <td align="right"><b>2002/04/18 Version 0.10</b></td>
+    </tr>
+  </table>
+</center>
+<p><h1>DOS XMS Library</h1>
+<p>DOS XMS library is a DOS real mode and large memory model 
+C library. Because DOS is ran under real mode, programmer only can access RAM 
+under 1MB. The memory user can use are 640 KB, Other 384 KB are reserved for ROM BIOS and 
+other cards. XMS library provides M6117D programmer a easy way to access RAM above 1 MB under 
+DOS via XMS driver. For X-DOS, add "DOS=HIGH" to you CONFIG.SYS will force X-DOS to active XMS driver.</p>
+<p><strong>Notice:</strong>             
+<font color="red">The memory size should be even when you call XMS functions.</font> The string "szStr" in DEMO.C contains 15 characters which 
+length is 16(15+one '\0'). You can modified it that the length of "szStr" to be 
+odd and will get mistake.
+<p>If you have any problem, mail to <a href="mailto:tech@dmp.com.tw">tech@dmp.com.tw</a> please.
+<h1>Function Reference</h1>
+  <ul>
+    <li><a href="#XMS_Init">int XMS_Init();</a>
+    <li><a href="#XMS_GetVer">unsigned int XMS_GetVer();</a>
+    <li><a href="#XMS_GetFree">void XMS_GetFree();</a>
+    <li><a href="#XMS_Allocate">int XMS_Allocate();</a>
+    <li><a href="#XMS_Free">int XMS_Free();</a>
+    <li><a href="#XMS_GetInfo">int XMS_GetInfo();</a>
+    <li><a href="#XMS_Copy">int XMS_Copy();</a>
+    <li><a href="#XMS_CopyToXMS">int XMS_CopyToXMS();</a>
+    <li><a href="#XMS_CopyFromXMS">int XMS_CopyFromXMS();</a></li>
+  </ul>
+<p>
+<hr><a name="XMS_Init">
+<h3>int XMS_Init();</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Initialize XMS driver and get control function
+      address.</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>return</i></td>
+          <td>0 is error, non-zero 
+        is okay.</b></td>
+        </tr>
+      </table>
+</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+/* Initialize XMS driver */
+if(XMS_Init() == 0)
+{
+  printf("Unable to find XMS driver.\n");
+  return;
+}
+</pre></td>
+    </tr>
+  </table>
+<hr><a name="XMS_GetVer">
+<h3>unsigned int XMS_GetVer();</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Get XMS driver version.</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>return</i></td>
+          <td>XMS driver version.</td>
+        </tr>
+      </table>
+</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+/* Show XMS version */
+printf("XMS Version: %x\n", XMS_GetVer());
+</pre></td>
+    </tr>
+  </table>
+<hr><a name="XMS_GetFree">
+<h3>void XMS_GetFree(unsigned int *pnMax, unsigned int *pnTotal);</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Query free memory and maximum available space</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>pnMax</i></td>
+          <td>Pointer to save maximum available space in
+            KBytes.</td>
+        </tr>
+        <tr>
+          <td><i>pnTotal</i></td>
+          <td>Pointer to save total memory free
+            space in KBytes.</td>
+        </tr>
+      </table>
+</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+unsigned int  nMax, nTotal;
+XMS_GetFree(&amp;nMax, &amp;nTotal);
+printf("Free memory: max=%u KB, total=%u KB.\n", nMax, nTotal);
+</pre></td>
+    </tr>
+  </table>
+<hr><a name="XMS_Allocate">
+<h3>int XMS_Allocate(unsigned int nSize, unsigned int *pHandle);</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Allocate XMS memory.</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>return</i></td>
+          <td>0 is error, non-zero is okay.</td>
+        </tr>
+        <tr>
+          <td><i>nSize</i></td>
+          <td>Memory size in KBytes you want to
+          allocate.</td>
+        </tr>
+        <tr>
+          <td><i>pHandle</i></td>
+          <td>Pointer to save handle.</td>
+        </tr>
+      </table>
+</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+unsigned int  Handle;
+if(XMS_Allocate(1, &amp;Handle) == 0)
+{
+  printf("failed!\n");
+  return;
+}
+</pre></td>
+    </tr>
+  </table>
+<hr><a name="XMS_Free">
+<h3>int XMS_Free(unsigned int Handle);</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Free allocated XMS memory.</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>return</i></td>
+          <td>0 is error, non-zero is okay.</td>
+        </tr>
+        <tr>
+          <td><i>Handle</i></td>
+          <td>Memory handle</td>
+        </tr>
+      </table>
+</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+/* Free XMS we allocated */
+XMS_Free(Handle);
+</pre></td>
+    </tr>
+  </table>
+<hr><a name="XMS_GetInfo">
+<h3>int XMS_GetInfo(unsigned int Handle, unsigned char *pcLockCounter,unsigned char *pcAvailHandle, unsigned int *nSize);</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Get handle information.</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>return</i></td>
+          <td>0 is error, non-zero is okay.</td>
+        </tr>
+        <tr>
+          <td><i>Handle</i></td>
+          <td>Memory handle.</td>
+        </tr>
+        <tr>
+          <td><i>pcLockCounter</i></td>
+          <td>Lock counter of this handle.</td>
+        </tr>
+        <tr>
+          <td><i>pcAvailHandle</i></td>
+          <td>Available memory of XMS.</td>
+        </tr>
+        <tr>
+          <td><i>nSize</i></td>
+          <td>The XMS memory size of this
+        handle.</td>
+        </tr>
+      </table>
+</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+/* Show handle information */
+XMS_GetInfo(Handle, &amp;cLockCounter, &amp;cAvailHandle, &amp;nSize);
+printf("Block info: ");
+printf("lock counter=%u, ", cLockCounter);
+printf("available handle=%u, ", cAvailHandle);
+printf("size=%u KB.\n", nSize);
+</pre></td>
+    </tr>
+  </table>
+<hr><a name="XMS_Copy">
+<h3>int XMS_Copy(struct XMMS *pXMMS);</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Copy memory.</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>return</i></td>
+          <td>0 is error, non-zero is okay.</td>
+        </tr>
+        <tr>
+          <td><i>pXMMS</i></td>
+          <td>Pointer of eXtended Memory Move
+          Structure.</td>
+        </tr>
+      </table>
+<p>The XMMS structure:
+
+    <pre>struct XMMS
+{
+  unsigned long lLen;       /* length */
+  unsigned int  SrcHandle;  /* source handle */
+  unsigned long lSrcOffset; /* source offset */
+  unsigned int  DstHandle;  /* destination handle */
+  unsigned long lDstOffset; /* destination offset */
+};
+</pre></td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+XMMS XMMS;
+XMMS.lLen = lLen;
+XMMS.SrcHandle = SrcHandle;
+XMMS.lSrcOffset = lSrcOffset;
+XMMS.DstHandle = 0;
+((unsigned int *)(&amp;XMMS.lDstOffset))[0] = FP_OFF(pDst);
+((unsigned int *)(&amp;XMMS.lDstOffset))[1] = FP_SEG(pDst);
+XMS_Copy(&amp;XMMS);
+</pre></td>
+    </tr>
+  </table>
+<hr><a name="XMS_CopyToXMS">
+<h3>int XMS_CopyToXMS(unsigned int DstHandle, unsigned long lDstOffset,const void far *pSrc, unsigned long lLen);</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Copy memory buffer to XMS.</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>return</i></td>
+          <td>0 is error, non-zero is okay.</td>
+        </tr>
+        <tr>
+          <td><i>DstHandle</i></td>
+          <td>Destination handle.</td>
+        </tr>
+        <tr>
+          <td><i>lDstOffset</i></td>
+          <td>Destination offset.</td>
+        </tr>
+        <tr>
+          <td><i>pSrc</i></td>
+          <td>Pointer of source memory.</td>
+        </tr>
+        <tr>
+          <td><i>lLen</i></td>
+          <td>Length to copy.</td>
+        </tr>
+      </table>
+</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+XMS_CopyToXMS(Handle, 0, pcBuf, BUF_SIZE);
+</pre></td>
+    </tr>
+  </table>
+<hr><a name="XMS_CopyFromXMS">
+<h3>int XMS_CopyFromXMS(void far *pDst, unsigned int SrcHandle,unsigned long lSrcOffset, unsigned long lLen);</h3></a>
+  <table>
+    <tr>
+      <td valign="top"><b>Description:</b></td>
+      <td>Copy XMS to memory buffer.</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Arguments:</b></td>
+      <td>
+      <table>
+        <tr>
+          <td><i>return</i></td>
+          <td>0 is error, non-zero is okay.</td>
+        </tr>
+        <tr>
+          <td><i>pDst</i></td>
+          <td>Pointer of memory buffer.</td>
+        </tr>
+        <tr>
+          <td><i>SrcHandle</i></td>
+          <td>Handle of XMS.</td>
+        </tr>
+        <tr>
+          <td><i>lSrcOffset</i></td>
+          <td>Offset of source memory.</td>
+        </tr>
+        <tr>
+          <td><i>lLen</i></td>
+          <td>Length to copy.</td>
+        </tr>
+      </table>
+</td>
+    </tr>
+    <tr>
+      <td valign="top"><b>Example:</b></td>
+      <td>
+    <pre>
+
+XMS_CopyFromXMS(pcBuf, Handle, 0, BUF_SIZE);
+</pre></td>
+    </tr>
+  </table>
+<hr>
+  <table width="100%" bgcolor="#99ccff">
+    <tr>
+      <td><a href="http://www.dmp.com.tw">Jan Yin Chan Electronics Co., LTD.</a> All rights reserved.</td>
+      <td align="right">Email us: <a href="mailto:info@dmp.com.tw">info@dmp.com.tw</a></td>
+    </tr>
+  </table>
+</font>
+</body>
+</html>

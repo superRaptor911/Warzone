@@ -1,0 +1,1 @@
+start emulator\DOSBox.exe -conf "emulator\config.cfg" "game.exe"

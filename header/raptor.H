@@ -1,0 +1,13 @@
+#include <iostream.h>
+#include <conio.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <fstream.h>
+#include <process.h>
+#include <dos.h>
+#include <alloc.h>
+#include <math.h>
+#include <time.h>
+//#include <graphics.h>
+#include <string.h>
+#include <io.h>

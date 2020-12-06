@@ -1,0 +1,3529 @@
+
+
+
+x 127
+y 94
+rx 127
+ry 94
+
+
+x 127
+y 189
+rx 127
+ry 189
+
+
+x 746
+y 90
+rx 746
+ry 90
+
+
+x 744
+y 131
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131
+
+
+x 0
+y 0
+rx 127
+ry 94
+
+
+x 0
+y 0
+rx 127
+ry 189
+
+
+x 0
+y 0
+rx 746
+ry 90
+
+
+x 0
+y 0
+rx 744
+ry 131

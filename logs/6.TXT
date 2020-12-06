@@ -1,0 +1,252 @@
+---------------------------------------
+date 26:6:2019 and time 10:4:33
+initial main memory 494272
+direct_load_bmp is loading .\res\load\back2.bmp its height is 600 and its size is 1920000 and the time taken is 4.230769 seconds
+direct_load_models is loading model no. 0 which is .\models\weapons\bullets.bmp size is 64
+direct_load_models is loading model no. 1 which is .\res\mouse\mouse.bmp size is 1600
+direct_load_models is loading model no. 2 which is .\models\player\ct\ct_ak.bmp size is 6400
+direct_load_models is loading model no. 3 which is .\models\player\ct\blank.bmp size is 6400
+direct_load_models is loading model no. 4 which is .\models\weapons\spit.bmp size is 1024
+direct_load_models is loading model no. 5 which is .\res\msg_box.bmp size is 354240
+direct_load_models is loading model no. 6 which is .\gui\load\1.bmp size is 11200
+direct_load_models is loading model no. 7 which is .\gui\load\2.bmp size is 11200
+direct_load_models is loading model no. 8 which is .\gui\load\3.bmp size is 11200
+direct_load_models is loading model no. 9 which is .\gui\load\4.bmp size is 11200
+direct_load_models is loading model no. 10 which is .\gui\load\5.bmp size is 11200
+direct_load_models is loading model no. 11 which is .\gui\menu\newgame.bmp size is 15360
+direct_load_models is loading model no. 12 which is .\gui\menu\continue.bmp size is 12544
+direct_load_models is loading model no. 13 which is .\gui\menu\options.bmp size is 10752
+direct_load_models is loading model no. 14 which is .\gui\menu\store.bmp size is 8064
+direct_load_models is loading model no. 15 which is .\gui\menu\extras.bmp size is 10752
+direct_load_models is loading model no. 16 which is .\gui\menu\credits.bmp size is 10752
+direct_load_models is loading model no. 17 which is .\gui\menu\exit.bmp size is 5376
+direct_load_models is loading model no. 18 which is .\gui\menu\1.bmp size is 15360
+direct_load_models is loading model no. 19 which is .\gui\menu\2.bmp size is 12544
+direct_load_models is loading model no. 20 which is .\gui\menu\3.bmp size is 10752
+direct_load_models is loading model no. 21 which is .\gui\menu\4.bmp size is 8064
+direct_load_models is loading model no. 22 which is .\gui\menu\5.bmp size is 10752
+direct_load_models is loading model no. 23 which is .\gui\menu\6.bmp size is 10752
+direct_load_models is loading model no. 24 which is .\gui\menu\7.bmp size is 5376
+direct_load_models is loading model no. 25 which is .\gui\buy\1.bmp size is 96320
+direct_load_models is loading model no. 26 which is .\gui\buy\2.bmp size is 86016
+direct_load_models is loading model no. 27 which is .\gui\buy\3.bmp size is 60928
+direct_load_models is loading model no. 28 which is .\gui\buy\4.bmp size is 101376
+direct_load_models is loading model no. 29 which is .\gui\wpn_m\1.bmp size is 65536
+direct_load_models is loading model no. 30 which is .\gui\wpn_m\2.bmp size is 65536
+direct_load_models is loading model no. 31 which is .\gui\wpn_m\3.bmp size is 65536
+direct_load_models is loading model no. 32 which is .\gui\wpn_m\4.bmp size is 65536
+direct_load_models is loading model no. 33 which is .\gui\wpn_m\5.bmp size is 65536
+direct_load_models is loading model no. 34 which is .\gui\wpn_m\6.bmp size is 65536
+direct_load_models is loading model no. 35 which is .\gui\wpn_m\7.bmp size is 65536
+direct_load_models is loading model no. 36 which is .\gui\buy\5.bmp size is 90112
+direct_load_models is loading model no. 37 which is .\gui\wpn_i\1.bmp size is 9216
+direct_load_models is loading model no. 38 which is .\gui\wpn_i\2.bmp size is 9216
+direct_load_models is loading model no. 39 which is .\gui\wpn_i\3.bmp size is 9216
+direct_load_models is loading model no. 40 which is .\gui\wpn_i\4.bmp size is 9216
+direct_load_models is loading model no. 41 which is .\gui\wpn_i\5.bmp size is 9216
+direct_load_models is loading model no. 42 which is .\gui\wpn_i\6.bmp size is 9216
+direct_load_models is loading model no. 43 which is .\gui\wpn_i\7.bmp size is 9216
+direct_load_bmp is loading .\res\login\login.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+direct_load_bmp is loading .\res\map_img.bmp its height is 600 and its size is 1920000 and the time taken is 4.230769 seconds
+direct_load_bmp is loading .\res\buymenu.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+direct_load_bmp is loading .\gui\wpn\1.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+direct_load_bmp is loading .\gui\wpn\2.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+direct_load_bmp is loading .\gui\wpn\3.bmp its height is 600 and its size is 1920000 and the time taken is 4.230769 seconds
+direct_load_bmp is loading .\gui\wpn\4.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+direct_load_bmp is loading .\gui\wpn\5.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+direct_load_bmp is loading .\res\back.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+
+LoadVoice loading .\sound\glock18.wav
+file .\sound\glock18.wav  is a wave file and its index  in sound_handle is 0 and size is 10922
+
+LoadVoice loading .\sound\usp.wav
+file .\sound\usp.wav  is a wave file and its index  in sound_handle is 10922 and size is 14259
+
+LoadVoice loading .\sound\deagle.wav
+file .\sound\deagle.wav  is a wave file and its index  in sound_handle is 25181 and size is 22678
+
+LoadVoice loading .\sound\p228.wav
+file .\sound\p228.wav  is a wave file and its index  in sound_handle is 47859 and size is 13453
+
+LoadVoice loading .\sound\python.wav
+file .\sound\python.wav  is a wave file and its index  in sound_handle is 61312 and size is 23454
+
+LoadVoice loading .\sound\elite.wav
+file .\sound\elite.wav  is a wave file and its index  in sound_handle is 84766 and size is 28631
+
+LoadVoice loading .\sound\colt.wav
+file .\sound\colt.wav  is a wave file and its index  in sound_handle is 113397 and size is 13566
+
+LoadVoice loading .\sound\tmp.wav
+file .\sound\tmp.wav  is a wave file and its index  in sound_handle is 126963 and size is 5584
+
+LoadVoice loading .\sound\mp5.wav
+file .\sound\mp5.wav  is a wave file and its index  in sound_handle is 132547 and size is 17943
+
+LoadVoice loading .\sound\ump45.wav
+file .\sound\ump45.wav  is a wave file and its index  in sound_handle is 150490 and size is 15417
+
+LoadVoice loading .\sound\p90.wav
+file .\sound\p90.wav  is a wave file and its index  in sound_handle is 165907 and size is 12053
+
+LoadVoice loading .\sound\mp7.wav
+file .\sound\mp7.wav  is a wave file and its index  in sound_handle is 177960 and size is 12119
+
+LoadVoice loading .\sound\galil.wav
+file .\sound\galil.wav  is a wave file and its index  in sound_handle is 190079 and size is 16014
+
+LoadVoice loading .\sound\famas.wav
+file .\sound\famas.wav  is a wave file and its index  in sound_handle is 206093 and size is 17562
+
+LoadVoice loading .\sound\ak47.wav
+file .\sound\ak47.wav  is a wave file and its index  in sound_handle is 223655 and size is 24536
+
+LoadVoice loading .\sound\m4a1.wav
+file .\sound\m4a1.wav  is a wave file and its index  in sound_handle is 248191 and size is 13309
+
+LoadVoice loading .\sound\scout.wav
+file .\sound\scout.wav  is a wave file and its index  in sound_handle is 261500 and size is 24461
+
+LoadVoice loading .\sound\effects\walk.wav
+file .\sound\effects\walk.wav  is a wave file and its index  in sound_handle is 285961 and size is 10289
+
+LoadVoice loading .\sound\effects\water.wav
+file .\sound\effects\water.wav  is a wave file and its index  in sound_handle is 296250 and size is 28382
+
+LoadVoice loading .\sound\effects\walk_g.wav
+file .\sound\effects\walk_g.wav  is a wave file and its index  in sound_handle is 324632 and size is 14330
+
+LoadVoice loading .\sound\effects\wall.wav
+file .\sound\effects\wall.wav  is a wave file and its index  in sound_handle is 338962 and size is 5219
+
+LoadVoice loading .\sound\effects\die.wav
+file .\sound\effects\die.wav  is a wave file and its index  in sound_handle is 344181 and size is 17062
+
+LoadVoice loading .\sound\effects\go.wav
+file .\sound\effects\go.wav  is a wave file and its index  in sound_handle is 361243 and size is 34284
+
+LoadVoice loading .\sound\effects\terwin.wav
+file .\sound\effects\terwin.wav  is a wave file and its index  in sound_handle is 395527 and size is 41213
+
+LoadVoice loading .\sound\effects\hostage.wav
+file .\sound\effects\hostage.wav  is a wave file and its index  in sound_handle is 436740 and size is 63245
+
+LoadVoice loading .\sound\bolt.wav
+file .\sound\bolt.wav  is a wave file and its index  in sound_handle is 499985 and size is 6813
+
+LoadVoice loading .\sound\effects\ctwin.wav
+file .\sound\effects\ctwin.wav  is a wave file and its index  in sound_handle is 506798 and size is 44979
+
+LoadVoice loading .\sound\zm\death_f.wav
+file .\sound\zm\death_f.wav  is a wave file and its index  in sound_handle is 551777 and size is 63327
+
+LoadVoice loading .\sound\zm\death_m.wav
+file .\sound\zm\death_m.wav  is a wave file and its index  in sound_handle is 615104 and size is 24626
+
+LoadVoice loading .\sound\zm\zwin.wav
+file .\sound\zm\zwin.wav  is a wave file and its index  in sound_handle is 639730 and size is 84013
+
+LoadVoice loading .\sound\zm\hwin.wav
+file .\sound\zm\hwin.wav  is a wave file and its index  in sound_handle is 723743 and size is 85618
+
+LoadVoice loading .\sound\effects\explode.wav
+file .\sound\effects\explode.wav  is a wave file and its index  in sound_handle is 809361 and size is 41387
+
+LoadVoice loading .\sound\zm\headcrab.wav
+file .\sound\zm\headcrab.wav  is a wave file and its index  in sound_handle is 850748 and size is 11395
+Loadmusic loading .\sound\theme\hl1.wav
+file .\sound\theme\hl1.wav  is a wave file size of .\sound\theme\hl1.wav 2317241
+direct_load_bmp is loading .\res\inv.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+direct_load_bmp is loading .\res\back2.bmp its height is 600 and its size is 1920000 and the time taken is 4.175824 seconds
+reading weapon data of weapon glock18
+reading weapon data of weapon usp
+reading weapon data of weapon deagle
+reading weapon data of weapon p22
+reading weapon data of weapon python
+reading weapon data of weapon elite
+reading weapon data of weapon colt
+reading weapon data of weapon tmp
+reading weapon data of weapon mp5
+reading weapon data of weapon ump45
+reading weapon data of weapon p90
+reading weapon data of weapon mp7
+reading weapon data of weapon galil
+reading weapon data of weapon famas
+reading weapon data of weapon ak47
+reading weapon data of weapon m4a1
+reading weapon data of weapon scout
+direct_load_models is loading model no. 44 which is .\models\player\ct\glock18.bmp size is 6400
+direct_load_models is loading model no. 45 which is .\models\player\ct\usp.bmp size is 6400
+direct_load_models is loading model no. 46 which is .\models\player\ct\deagle.bmp size is 6400
+direct_load_models is loading model no. 47 which is .\models\player\ct\p22.bmp size is 6400
+direct_load_models is loading model no. 48 which is .\models\player\ct\python.bmp size is 6400
+direct_load_models is loading model no. 49 which is .\models\player\ct\elite.bmp size is 6400
+direct_load_models is loading model no. 50 which is .\models\player\ct\colt.bmp size is 6400
+direct_load_models is loading model no. 51 which is .\models\player\ct\tmp.bmp size is 6400
+direct_load_models is loading model no. 52 which is .\models\player\ct\mp5.bmp size is 6400
+direct_load_models is loading model no. 53 which is .\models\player\ct\ump45.bmp size is 6400
+direct_load_models is loading model no. 54 which is .\models\player\ct\p90.bmp size is 6400
+direct_load_models is loading model no. 55 which is .\models\player\ct\mp7.bmp size is 6400
+direct_load_models is loading model no. 56 which is .\models\player\ct\galil.bmp size is 6400
+direct_load_models is loading model no. 57 which is .\models\player\ct\famas.bmp size is 6400
+direct_load_models is loading model no. 58 which is .\models\player\ct\ak47.bmp size is 6400
+direct_load_models is loading model no. 59 which is .\models\player\ct\m4a1.bmp size is 6400
+direct_load_models is loading model no. 60 which is .\models\player\ct\scout.bmp size is 6400
+direct_load_models is loading model no. 61 which is .\models\player\t\glock18.bmp size is 6400
+direct_load_models is loading model no. 62 which is .\models\player\t\usp.bmp size is 6400
+direct_load_models is loading model no. 63 which is .\models\player\t\deagle.bmp size is 6400
+direct_load_models is loading model no. 64 which is .\models\player\t\p22.bmp size is 6400
+direct_load_models is loading model no. 65 which is .\models\player\t\python.bmp size is 6400
+direct_load_models is loading model no. 66 which is .\models\player\t\elite.bmp size is 6400
+direct_load_models is loading model no. 67 which is .\models\player\t\colt.bmp size is 6400
+direct_load_models is loading model no. 68 which is .\models\player\t\tmp.bmp size is 6400
+direct_load_models is loading model no. 69 which is .\models\player\t\mp5.bmp size is 6400
+direct_load_models is loading model no. 70 which is .\models\player\t\ump45.bmp size is 6400
+direct_load_models is loading model no. 71 which is .\models\player\t\p90.bmp size is 6400
+direct_load_models is loading model no. 72 which is .\models\player\t\mp7.bmp size is 6400
+direct_load_models is loading model no. 73 which is .\models\player\t\galil.bmp size is 6400
+direct_load_models is loading model no. 74 which is .\models\player\t\famas.bmp size is 6400
+direct_load_models is loading model no. 75 which is .\models\player\t\ak47.bmp size is 6400
+direct_load_models is loading model no. 76 which is .\models\player\t\m4a1.bmp size is 6400
+direct_load_models is loading model no. 77 which is .\models\player\t\scout.bmp size is 6400
+direct_load_models is loading model no. 78 which is .\models\player\alt_ct\glock18.bmp size is 6400
+direct_load_models is loading model no. 79 which is .\models\player\alt_ct\usp.bmp size is 6400
+direct_load_models is loading model no. 80 which is .\models\player\alt_ct\deagle.bmp size is 6400
+direct_load_models is loading model no. 81 which is .\models\player\alt_ct\p22.bmp size is 6400
+direct_load_models is loading model no. 82 which is .\models\player\alt_ct\python.bmp size is 6400
+direct_load_models is loading model no. 83 which is .\models\player\alt_ct\elite.bmp size is 6400
+direct_load_models is loading model no. 84 which is .\models\player\alt_ct\colt.bmp size is 6400
+direct_load_models is loading model no. 85 which is .\models\player\alt_ct\tmp.bmp size is 6400
+direct_load_models is loading model no. 86 which is .\models\player\alt_ct\mp5.bmp size is 6400
+direct_load_models is loading model no. 87 which is .\models\player\alt_ct\ump45.bmp size is 6400
+direct_load_models is loading model no. 88 which is .\models\player\alt_ct\p90.bmp size is 6400
+direct_load_models is loading model no. 89 which is .\models\player\alt_ct\mp7.bmp size is 6400
+direct_load_models is loading model no. 90 which is .\models\player\alt_ct\galil.bmp size is 6400
+direct_load_models is loading model no. 91 which is .\models\player\alt_ct\famas.bmp size is 6400
+direct_load_models is loading model no. 92 which is .\models\player\alt_ct\ak47.bmp size is 6400
+direct_load_models is loading model no. 93 which is .\models\player\alt_ct\m4a1.bmp size is 6400
+direct_load_models is loading model no. 94 which is .\models\player\alt_ct\scout.bmp size is 6400
+direct_load_models is loading model no. 95 which is .\models\player\t\dead.bmp size is 10816
+direct_load_models is loading model no. 96 which is .\models\player\hostage.bmp size is 6400
+direct_load_models is loading model no. 97 which is .\models\player\z\hunt.bmp size is 6400
+direct_load_models is loading model no. 98 which is .\models\player\z\smok.bmp size is 6400
+direct_load_models is loading model no. 99 which is .\models\player\z\witch.bmp size is 4096
+direct_load_models is loading model no. 100 which is .\models\player\z\boom.bmp size is 6400
+direct_load_models is loading model no. 101 which is .\models\player\z\spit.bmp size is 4096
+direct_load_models is loading model no. 102 which is .\models\player\z\tank.bmp size is 6400
+direct_load_models is loading model no. 103 which is .\models\player\z\crab.bmp size is 1600
+direct_load_models is loading model no. 104 which is .\models\player\z\venom.bmp size is 4096
+direct_load_models is loading model no. 105 which is .\models\player\z\spike.bmp size is 4096
+direct_load_models is loading model no. 106 which is .\models\player\z\bug.bmp size is 1024
+direct_load_models is loading model no. 107 which is .\models\static\e1.bmp size is 6400
+direct_load_models is loading model no. 108 which is .\models\static\e2.bmp size is 6400
+direct_load_models is loading model no. 109 which is .\models\static\e3.bmp size is 6400
+direct_load_models is loading model no. 110 which is .\models\static\e4.bmp size is 6400
+direct_load_models is loading model no. 111 which is .\models\static\e5.bmp size is 6400
+direct_load_models is loading model no. 112 which is .\models\static\e6.bmp size is 6400
+direct_load_models is loading model no. 113 which is .\models\static\e7.bmp size is 6400
+direct_load_models is loading model no. 114 which is .\models\static\e8.bmp size is 6400
+direct_load_models is loading model no. 115 which is .\models\static\e9.bmp size is 6400
+direct_load_models is loading model no. 116 which is .\models\static\e10.bmp size is 6400
+direct_load_models is loading model no. 117 which is .\models\static\e11.bmp size is 6400
+direct_load_models is loading model no. 118 which is .\models\static\e12.bmp size is 6400
